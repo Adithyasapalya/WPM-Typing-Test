@@ -1,3 +1,4 @@
+# This is an Words per Minute (WPM) typing test application using the curses library, where texts are customizable via an external text file.
 import curses
 from curses import wrapper
 import time
